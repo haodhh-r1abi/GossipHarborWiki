@@ -59,3 +59,6 @@ details.flow{margin-top:8px}details.flow summary{cursor:pointer;color:var(--mute
 .uc-shots a img{height:190px;width:auto;border-radius:5px;border:1px solid var(--line)}
 .lightbox{position:fixed;inset:0;background:rgba(0,0,0,.82);display:flex;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}
 .lightbox img{max-width:94vw;max-height:94vh;border-radius:6px}
+
+/* reward icons (tools/rw_icons.py) */
+img.rwi{height:1.35em;width:auto;max-width:2.2em;vertical-align:-.32em;margin:0 3px 0 1px;object-fit:contain}
